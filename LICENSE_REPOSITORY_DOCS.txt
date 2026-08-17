@@ -1,0 +1,3 @@
+Repository documentation copyright (c) 2026 Michael Shannon.
+
+This notice applies only to original repository documentation created for this portfolio package. It does not grant rights to the coauthored academic report, U.S. Census source materials, third-party references, or any other material whose rights are held elsewhere.
